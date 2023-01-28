@@ -5,14 +5,14 @@ This is a simple nodejs script that copies hidden files that appear on Windows l
 
 ## Instructions
 
-To run this script requires NodeJS. Clone the repository, add a .env file and set the directory environment variables, or just edit them directly in .js file.
+To run this script requires NodeJS. Clone the repository:
 
 ```bash
 git clone https://github.com/hanley2d/lockScreenPhotos.git
 npm install
 ```
 
-Create a .env file in the directory and set the environment variables for the source directory of the images and the destination directory. The source directory will be something like this
+Create a .env file in the directory and set the environment variables for the source directory of the images and the destination directory. Alternatively, just edit the source and destination paths directly in the .js file. The source directory will be something like this
 
 ```
 Local Disk (C:) > Users > [YOUR USERNAME] > AppData > Local >  Packages > Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy > LocalState > Assets
