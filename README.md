@@ -6,12 +6,14 @@ This is a simple nodejs script that copies hidden files that appear on Windows l
 
 ## Instructions
 
-To run this script requires NodeJS. Clone the repository:
+Running this script requires NodeJS. 
+
+Clone the repository
 
 ```bash
 git clone https://github.com/hanley2d/lockScreenPhotos.git
 ```
-Install dependencies
+Navigate to directory and nstall dependencies
 ```bash
 npm install
 ```
