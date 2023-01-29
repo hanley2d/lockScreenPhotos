@@ -1,6 +1,6 @@
 # lockScreenPhotos
 
-![alt-text](https://user-images.githubusercontent.com/61337625/215301470-a7de71ac-8d98-46c8-9899-2913d6ae3992.png "lock screen image")
+![alt-text](https://user-images.githubusercontent.com/61337625/215301470-a7de71ac-8d98-46c8-9899-2913d6ae3992.png "lock screen image" | width=200)
 
 When you log on to Windows the lock screen displays often nice images that are not easily found. When you do find them, they are also in a format that can't be easily viewed, so you have to rename them with a .png or .jpg extension.
 This is a simple nodejs script that copies hidden files that appear on Windows locks screen into a directory so that they can be easily accessed.
