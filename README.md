@@ -10,6 +10,9 @@ To run this script requires NodeJS. Clone the repository:
 
 ```bash
 git clone https://github.com/hanley2d/lockScreenPhotos.git
+```
+Install dependencies
+```bash
 npm install
 ```
 
