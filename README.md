@@ -18,7 +18,14 @@ Navigate to directory and nstall dependencies
 npm install
 ```
 
-Create a .env file in the directory and set the environment variables for the source directory of the images and the destination directory. Alternatively, just edit the source and destination paths directly in the .js file. The source directory will be something like this
+Create a .env file in the directory and set the environment variables for the source directory of the images and the destination directory. 
+
+```
+DIR_PATH="source/directory"
+DESTINATION="destination/directory"
+```
+
+Alternatively, just edit the source and destination paths directly in the .js file. The source directory will be something like this
 
 ```
 Local Disk (C:) > Users > [YOUR USERNAME] > AppData > Local >  Packages > Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy > LocalState > Assets
